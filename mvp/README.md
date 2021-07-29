@@ -4,8 +4,10 @@
 
 **Dataset** [VIST](http://visionandlanguage.net/VIST/dataset.html)
 
-**Pretrained weigths** Please download the [weigths](https://drive.google.com/drive/folders/10vBPeETCKZfdOr2zenB_WlmKDcRBHmYR?usp=sharing) and put it in `./models/`
+**Pretrained weigths** Please download the [weigths](https://drive.google.com/drive/folders/10vBPeETCKZfdOr2zenB_WlmKDcRBHmYR?usp=sharing) and put it in `./models/`.
 
 **To deploy locally** `python run_demo.py`
 
-**To deploy on colab** Please use this file `run_mvp_colab.ipynb`
+**To deploy on colab** Please use this file `run_mvp_colab.ipynb`.
+
+**Examples** You can find some examples in the `examples` folder.
