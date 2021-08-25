@@ -5,4 +5,4 @@ tqdm
 nltk
 gensim
 jupyter
-
+torchsummary
