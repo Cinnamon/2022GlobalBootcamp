@@ -37,18 +37,18 @@ Jul 5 | <ul>**Lean startup**</ul><li>Lean Startup(Paul)</li>|
 Jul 7 | <ul>**MVP project**</ul><li>Life Cycle of ML project (Mandy)</li>|
 Jul 12 | <ul>**Agile Software development**</ul><li>SCRUM (Hato)</li>|
 Jul 14 | <ul>**Agile Software development**</ul><li>Docker Introduction (Jayce)</li> |
-Jul 19 | <ul>**Agile Software development**</ul><li>Clean code (Vincent)</li><li>SOLID (Vincent)</li>
-Jul 21 | <ul>**Agile Software development**</ul><li>+Git Workflow (Blake)</li>
-Jul 26 | <ul>**Data Loader (Dini)**</ul><li>Dataset and data loader in PyTorch</li><li>Efficient Training</li>
-Jul 28 | <ul>**Deep Learning Class (Hy)**</ul><li>Loss Function</li><li>CrossEntropy</li><li>MSE</li><li>TripletLoss</li><li>HubertLoss</li>
-Aug 2 | <ul>**NLP Technical Class [1] (Dini)**</ul><li>Missions & Metrics and Preprocessing</li>
-Aug 4 | <ul>**NLP Technical Class [2] (Matt) **</ul><li>Language modelling</li><li>Language models: n-gram, RNN, CNN, Transformer</li>
-Aug 9 | <ul>**NLP Technical Class [3]  (Matt)**</ul><li>Pre-trained models: ELMo, GPT, BERT</li>
-Aug 11 | <ul>**NLP Technical Class [4] (Hubert) **</ul><li>information extraction </li><li>explain real-business case and material </li>
-Aug 16 | <ul>**CV Technical Class [1]  (Jeff) **</ul><li>ClassicCNN</li>
-Aug 18 | <ul>**CV Technical Class [2] (Vincent) **</ul><li>VisionTransformers</li>
-Aug 23 | <ul>**CV Technical Class [3] (Tyler)**</ul><li>Training Tricks</li><li>Stochastic Depth</li><li>Warm up</li><li>Label Smoothing</li><li>No Bias Weight Decay</li><li>Teacher-Student Knowledge Distillation</li><li>Mixup</li><li>Group Normalization</li><li>Weight Standardization</li>
-Aug 25 | <ul>**Presentation (Paul) **</ul>
+Jul 19 | <ul>**Agile Software development**</ul><li>Clean code (Vincent)</li><li>SOLID (Vincent)</li>|
+Jul 21 | <ul>**Agile Software development**</ul><li>+Git Workflow (Blake)</li>|
+Jul 26 | <ul>**Data Loader (Dini)**</ul><li>Dataset and data loader in PyTorch</li><li>Efficient Training</li>|
+Jul 28 | <ul>**Deep Learning Class (Hy)**</ul><li>Loss Function</li><li>CrossEntropy</li><li>MSE</li><li>TripletLoss</li><li>HubertLoss</li>|
+Aug 2 | <ul>**NLP Technical Class [1] (Dini)**</ul><li>Missions & Metrics and Preprocessing</li>|
+Aug 4 | <ul>**NLP Technical Class [2] (Matt)**</ul><li>Language modelling</li><li>Language models: n-gram, RNN, CNN, Transformer</li>|
+Aug 9 | <ul>**NLP Technical Class [3]  (Matt)**</ul><li>Pre-trained models: ELMo, GPT, BERT</li>|
+Aug 11 | <ul>**NLP Technical Class [4] (Hubert)**</ul><li>information extraction </li><li>explain real-business case and material </li>|
+Aug 16 | <ul>**CV Technical Class [1]  (Jeff)**</ul><li>ClassicCNN</li>|
+Aug 18 | <ul>**CV Technical Class [2] (Vincent)**</ul><li>VisionTransformers</li>|
+Aug 23 | <ul>**CV Technical Class [3] (Tyler)**</ul><li>Training Tricks</li><li>Stochastic Depth</li><li>Warm up</li><li>Label Smoothing</li><li>No Bias Weight Decay</li><li>Teacher-Student Knowledge Distillation</li><li>Mixup</li><li>Group Normalization</li><li>Weight Standardization</li>|
+Aug 25 | **Presentation (Paul)**|
 Aug 30 | **Rehearsal** |
 Sep 1 | **Demo Day** |
 
