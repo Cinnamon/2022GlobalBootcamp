@@ -1,4 +1,4 @@
-# 2021GlobalBootcamp
+# 2022GlobalBootcamp
 Lecture material for Global Summer Bootcamp
 
 ## Installation
