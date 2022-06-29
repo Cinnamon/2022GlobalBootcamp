@@ -28,6 +28,22 @@ command to install by accessing the following link:
 
 [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
 
+### Install Docker desktop
+
+Docker desktop already provide the docker engine and docker-compose, you may download all platform's docker-desktop in [offcial website](https://www.docker.com/products/docker-desktop/)
+
+After installation, type below command into your terminal to see if the installation is successfully done.
+        
+    docker --version
+    docker-compose --version
+    '''
+    You should see output like this:
+    
+    Docker version 18.09.2, build 6247962
+    docker-compose version 1.23.2, build 1110ad01
+    '''
+
+
 ### Syllabus
 
 | Date | Subject |
