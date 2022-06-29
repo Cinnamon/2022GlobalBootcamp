@@ -23,7 +23,7 @@ conda activate <env_name>
 ### Install PyTorch
 
 PyTorch requires different command based on your environment. In this course,
-we will use PyTorch 1.9.0 (which is latest at the moment). You choose the
+we will use PyTorch 1.12.0 (which is latest at the moment). You choose the
 command to install by accessing the following link:
 
 [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
