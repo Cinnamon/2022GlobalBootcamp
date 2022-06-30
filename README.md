@@ -66,5 +66,5 @@ Aug 18 | <ul>**CV Technical Class [2] (Vincent)**</ul><li>VisionTransformers</li
 Aug 23 | <ul>**CV Technical Class [3] (Tyler)**</ul><li>Training Tricks</li><li>Stochastic Depth</li><li>Warm up</li><li>Label Smoothing</li><li>No Bias Weight Decay</li><li>Teacher-Student Knowledge Distillation</li><li>Mixup</li><li>Group Normalization</li><li>Weight Standardization</li>|
 Aug 25 | **Presentation (Paul)**|
 Aug 30 | **Rehearsal** |
-(TBD) | **Demo Day** |
+Sep (TBD) | **Demo Day** |
 
