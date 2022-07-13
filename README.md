@@ -52,9 +52,9 @@ After installation, type below command into your terminal to see if the installa
 Jul 5 | <ul>**Lean startup**</ul><li>Lean Startup(Paul)</li>|
 Jul 7 | <ul>**MVP project**</ul><li>Life Cycle of ML project (Mandy)</li>|
 Jul 12 | <ul>**Agile Software development**</ul><li>SCRUM (Hato)</li>|
-Jul 14 | <ul>**Agile Software development**</ul><li>Docker Introduction (Jayce)</li> |
+Jul 14 | <ul>**Agile Software development**</ul><li>+Git Workflow (Blake)</li> |
 Jul 19 | <ul>**Agile Software development**</ul><li>Clean code (Vincent)</li><li>SOLID (Vincent)</li>|
-Jul 21 | <ul>**Agile Software development**</ul><li>+Git Workflow (Blake)</li>|
+Jul 21 | <ul>**Agile Software development**</ul><li>Docker Introduction (Jayce)</li>|
 Jul 26 | <ul>**Data Loader (Dini)**</ul><li>Dataset and data loader in PyTorch</li><li>Efficient Training</li>|
 Jul 28 | <ul>**Deep Learning Class (Hy)**</ul><li>Loss Function</li><li>CrossEntropy</li><li>MSE</li><li>TripletLoss</li><li>HubertLoss</li>|
 Aug 2 | <ul>**NLP Technical Class [1] (Dini)**</ul><li>Missions & Metrics and Preprocessing</li>|
