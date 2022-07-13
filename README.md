@@ -64,7 +64,6 @@ Aug 11 | <ul>**NLP Technical Class [4] (Hubert)**</ul><li>information extraction
 Aug 16 | <ul>**CV Technical Class [3] (Tyler)**</ul><li>Training Tricks</li><li>Stochastic Depth</li><li>Warm up</li><li>Label Smoothing</li><li>No Bias Weight Decay</li><li>Teacher-Student Knowledge Distillation</li><li>Mixup</li><li>Group Normalization</li><li>Weight Standardization</li>|
 Aug 18 | <ul>**CV Technical Class [1]  (Jeff)**</ul><li>ClassicCNN</li>|
 Aug 23 | <ul>**CV Technical Class [2] (Vincent)**</ul><li>VisionTransformers</li>|
-
 Aug 25 | **Presentation (Paul)**|
 Aug 30 | **Rehearsal** |
 Sep (TBD) | **Demo Day** |
