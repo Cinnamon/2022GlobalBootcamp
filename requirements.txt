@@ -7,3 +7,5 @@ gensim
 jupyter
 torchsummary
 einops
+torch 
+torchvision
